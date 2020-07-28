@@ -1,0 +1,6 @@
+﻿  CompoundDataTYpes.cpp
+c:\users\user\documents\visual studio 2015\projects\compounddatatypes\compounddatatypes\compounddatatypes.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\compounddatatypes\compounddatatypes\compounddatatypes.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\documents\visual studio 2015\projects\compounddatatypes\compounddatatypes\compounddatatypes.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  CompoundDataTYpes.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\CompoundDataTYpes\Debug\CompoundDataTYpes.exe
+  CompoundDataTYpes.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\CompoundDataTYpes\Debug\CompoundDataTYpes.pdb (Full PDB)
