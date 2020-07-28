@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\bin\Debug\bank account.exe.config
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\bin\Debug\bank account.exe
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\bin\Debug\bank account.pdb
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\bin\Debug\bank account.xml
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\obj\Debug\bank_account.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\obj\Debug\bank account.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\obj\Debug\bank account.exe
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\obj\Debug\bank account.xml
+c:\users\user\documents\visual studio 2013\Projects\bank account\bank account\obj\Debug\bank account.pdb
