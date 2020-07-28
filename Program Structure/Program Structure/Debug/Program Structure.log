@@ -1,0 +1,4 @@
+﻿  Program Structure.cpp
+c:\users\user\documents\visual studio 2015\projects\program structure\program structure\program structure.cpp(19): warning C4390: ';': empty controlled statement found; is this the intent?
+  Program Structure.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Program Structure\Debug\Program Structure.exe
+  Program Structure.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Program Structure\Debug\Program Structure.pdb (Full PDB)

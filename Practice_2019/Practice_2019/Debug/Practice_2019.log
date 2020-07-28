@@ -1,0 +1,7 @@
+﻿  Practice_2019.cpp
+c:\users\user\documents\visual studio 2015\projects\practice_2019\practice_2019\practice_2019.cpp(255): warning C4102: 'std': unreferenced label
+c:\users\user\documents\visual studio 2015\projects\practice_2019\practice_2019\practice_2019.cpp(349): warning C4101: 'orange': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\practice_2019\practice_2019\practice_2019.cpp(349): warning C4101: 'banana': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\practice_2019\practice_2019\practice_2019.cpp(116): warning C4101: 'circle': unreferenced local variable
+  Practice_2019.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Practice_2019\Debug\Practice_2019.exe
+  Practice_2019.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Practice_2019\Debug\Practice_2019.pdb (Full PDB)
